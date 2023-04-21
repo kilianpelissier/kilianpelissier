@@ -3,7 +3,7 @@
 
 ### 💬 Qui suis-je ?
 
-Etudiant en conception et dévéloppement de logiciel spécialisation mobile et solutions web.
+Etudiant en Architecture et Dévéloppement de logiciel spécialisé en mobile et solutions web.
 
 ### ⚡ Technologies
 
