@@ -19,8 +19,8 @@ Etudiant en Architecture et Dévéloppement de logiciel spécialisé en mobile e
 ![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
 ![Python](https://img.shields.io/badge/-Python-000152?style=flat-square&logo=python)
 
-### 📊 Statistiques
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilianpelissier&show_icons=true&theme=highcontrast)
+<!-- ### 📊 Statistiques -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilianpelissier&show_icons=true&theme=highcontrast) -->
 
 ### 📲 Contact
 
